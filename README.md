@@ -4,7 +4,7 @@ minionHUB builds AI agents just by chatting, with no code, for anyone with work 
 
 Agents can work on information they find on the web, text you type in, documents, spreadsheets and pictures you upload, and emails you forward with their attachments. Results appear on your minionHUB page, and your agent can also email them to you or to anyone you choose.
 
-Connect your minionHUB account to Claude to list your agents, read their recent results and result files, check how a run stands, and see your credits. When you say yes, Claude can start a run of one of your agents with the words it should work on, or stop a run that is under way. Claude asks you before every run and every stop, unless your Claude settings let it act without asking.
+Connect your minionHUB account to Claude to list your agents, read their recent results and result files, check how a run stands, and see your credits. Claude can start a run of one of your agents with the words it should work on, or stop a run that is under way. Claude asks you before every run and every stop, unless your Claude settings let it act without asking.
 
 You pay per job with credits, with no monthly subscription, and a job uses credits only when its result does what your agent's description says. Building or changing an agent, buying credits, running an agent that needs files, and trial runs happen on minionHUB itself at minionhub.ai; Claude gives you the link. Agent output comes back marked as the agent's own text, never as instructions. You sign in with your minionHUB account and can remove Claude's access at any time.
 
