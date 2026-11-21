@@ -1,0 +1,9 @@
+{
+  "name": "minionhub",
+  "displayName": "minionHUB",
+  "description": "Build AI agents by chatting, then run them from Claude",
+  "version": "1.0.0",
+  "author": { "name": "Forge Labs AI Ltd", "email": "admin@minionhub.ai", "url": "https://minionhub.ai" },
+  "homepage": "https://minionhub.ai/claude.html",
+  "license": "MIT"
+}
