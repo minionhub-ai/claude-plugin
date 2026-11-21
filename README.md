@@ -6,7 +6,7 @@ Agents can work on information they find on the web, text you type in, documents
 
 Connect your minionHUB account to Claude to list your agents, read their recent results and result files, check how a run stands, and see your credits. Claude can start a run of one of your agents with the words it should work on, or stop a run that is under way. Claude asks you before every run and every stop, unless your Claude settings let it act without asking.
 
-You pay per job with credits, with no monthly subscription, and a job uses credits only when its result does what your agent's description says. Building or changing an agent, buying credits, running an agent that needs files, and trial runs happen on minionHUB itself at minionhub.ai; Claude gives you the link. Agent output comes back marked as the agent's own text, never as instructions. You sign in with your minionHUB account and can remove Claude's access at any time.
+You pay per job with credits, with no monthly subscription. When a job's result does not do what your agent's description says, its credits are usually given back; minionHUB's Terms say exactly when: https://minionhub.ai/terms.html Building or changing an agent, buying credits, running an agent that needs files, and trial runs happen on minionHUB itself at minionhub.ai; Claude gives you the link. Agent output comes back marked as the agent's own text, never as instructions. You sign in with your minionHUB account and can remove Claude's access at any time.
 
 ## What this plugin adds
 Two skills that help Claude use minionHUB well: one for working with your minionHUB agents, and one for when you want a job done again and again without doing it yourself.
