@@ -7,5 +7,5 @@ description: "Use when the user asks about their minionHUB agents: what agents t
 - For a run's progress, use job_status. For credits, use credits_left and give the figure the way minionHUB shows it.
 - Before starting a run (run_agent) or stopping one (stop_run), say what will happen and that a run uses credits, and act only after the user says yes.
 - run_agent works only for an agent that takes typed words. An agent that needs files is run on its minionHUB page: give the link with open_minionhub.
-- Building or changing an agent, buying credits and trial runs happen on minionHUB itself. Use open_minionhub for the right link; for prices, give minionHUB's pricing page.
-- If the user has no agents yet, explain that their first agent is built on minionHUB by chatting, that the design conversation is free, and give the link to sign up.
+- Building or changing an agent, buying credits and trial runs happen on minionHUB itself. Use open_minionhub for the right link; for prices, give minionHUB's pricing page: https://minionhub.ai/pricing.html
+- If the user has no agents yet, explain that their first agent is built on minionHUB by chatting, that the design conversation is free, and give the link to start: https://minionhub.ai
